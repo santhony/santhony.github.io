@@ -1,6 +1,6 @@
 # Dr. Sam English Anthony
 
-I'm Sam Anthony.  I've had a circuitous path through technology and the world.  This page documents and indexes some of it.
+<img src="images/headshot_sm.jpeg">I'm Sam Anthony. I've had a circuitous path through technology and the world. This page documents and indexes some of it.
 
 ## Perceptive Automata
 
@@ -42,6 +42,7 @@ Some books and papers I have found very influential include
 * olshausen and field
 * what computers still can't do
 * digital apollo
+oosterhof and todorov
 
 ## Music, fun
 
