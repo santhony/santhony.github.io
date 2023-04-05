@@ -1,6 +1,6 @@
 # Dr. Sam English Anthony
 
-<img src="images/headshot_sm.jpeg" id="headshot">
+<img src="images/headshot_sm.jpeg" id="headshot"><br/>
 I'm Sam Anthony. I've had a circuitous path through technology and the world. This page documents and indexes some of it.
 
 ## Perceptive Automata
