@@ -11,6 +11,8 @@ I spent the years from 2016 to 2022 building [Perceptive Automata](https://perce
 
 Before Perceptive Automata I was at the [Vision Sciences Lab](https://www.visionlab.harvard.edu/) at Harvard, working on my PhD research. My adviser, Ken Nakayama, is one of the world's great experts in visual psychophysics.  I defended my PhD in 2018.  My PhD work was at the heart of the technology we built at Perceptive Automata.  You can read our first paper -- titled "Perceptual Annotation" -- [here](https://ieeexplore.ieee.org/abstract/document/6701391).  Our central insight was that the process of annotating datasets for machine learning is actually a process of _measuring human behavior_.  If you do a better job measuring human behavior, you can train machine learning models that answer questions in a more human-like way, or even that answer questions that have typically been impossible for ML to address.
 
+You can find the full list of my publications and patents [here](https://scholar.google.com/citations?user=qkpah7YAAAAJ)
+
 ## Test My Brain
 
 I originally landed at Harvard to work on the web infrastructure of the site [Test My Brain](https://www.testmybrain.org/), masterminded by my collaborator [Laura Germine](https://www.mcleanhospital.org/profile/laura-germine).  We built a platform for careful online psychophysics that was and is unmatched in terms of rigor and scholarly productivity.  I am on the board of the [Many Brains Project](https://www.manybrains.net/), the nonprofit stewards of Test My Brain and related efforts.
